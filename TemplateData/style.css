@@ -98,13 +98,16 @@ body {
 }
 .explain-img {
   width: calc(100%-20px);
+  height: auto;
   margin: 10px 10px 0px 10px;
 }
 .title-en {
   width: 30%;
+  height: auto;
   margin: 50px 0px 0px 10px;
 }
 .title-jp {
   width: 20%;
+  height: auto;
   margin-left: 10px;
 }
