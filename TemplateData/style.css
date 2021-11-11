@@ -86,5 +86,25 @@
 }
 /**/
 body {
-  background-color: #111111;
+  background-color: #000000;
+}
+#explain-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid;
+  border-color: #444444;
+  border-top: transparent;
+  border-bottom: transparent;
+}
+.explain-img {
+  width: calc(100%-20px);
+  margin: 10px 10px 0px 10px;
+}
+.title-en {
+  width: 30%;
+  margin: 50px 0px 0px 10px;
+}
+.title-jp {
+  width: 20%;
+  margin-left: 10px;
 }
