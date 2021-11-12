@@ -9,7 +9,7 @@
   -webkit-transform: translate(-50%, 0%);
   transform: translate(-50%, 0%);
   top: 10vh;
-  width: 60%;
+  width: 100%;
 }
 
 .webgl-content .logo,
@@ -91,10 +91,6 @@ body {
 #explain-container {
   display: flex;
   flex-direction: column;
-  border: 1px solid;
-  border-color: #444444;
-  border-top: transparent;
-  border-bottom: transparent;
 }
 .explain1-img-wrapper {
   position: relative;
